@@ -1,3 +1,3 @@
 """
-The game package contains the classes for playing Hilo.
+The root package contains all the source code for the game.
 """
